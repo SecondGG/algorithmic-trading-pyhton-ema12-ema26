@@ -1,0 +1,1 @@
+# algorithmic-trading-pyhton-ema12-ema26
