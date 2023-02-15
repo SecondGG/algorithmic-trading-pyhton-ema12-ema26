@@ -1,1 +1,2 @@
-# algorithmic-trading-pyhton-ema12-ema26
+# Algorithmic Trading with Python
+## using EMA12 & EMA26 strategy
